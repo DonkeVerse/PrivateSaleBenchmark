@@ -8,8 +8,8 @@ A zk-snark or trie based data structure would be interesting to test in the futu
 
 ## Instructions to run
 ```shell
-git clone ...
-cd $_
+git clone https://github.com/DonkeVerse/PrivateSaleBenchmark.git
+cd PrivateSaleBenchmark
 npm install
 REPORT_GAS=true npx hardhat test
 ```
